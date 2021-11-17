@@ -3,7 +3,7 @@
     <head>
         <title>Web</title>
         <meta charset="utf-8">
-        <link href="style.css" rel="stylesheet">
+        <link href="style1.css" rel="stylesheet">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
